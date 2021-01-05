@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/pidmad92/05-clima-mundo#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "yargs": "^15.0.2"
   }
 }
